@@ -1,13 +1,4 @@
 {
-  "posts": [
-    {
-      "id": 1,
-      "title": "hello"
-    }
-  ],
-  "profile": {
-    "name": "typicode"
-  },
   "GetBillingInformation":{
    "Balance": "500.00",
    "DueDate": "2020-09-30",
@@ -46,5 +37,26 @@
          "ScheduledMoveOutDate": ""
       }
    ]
+},
+  "GetBillingNumberfromANI":{
+ "CallID": "005056A747E81EDB80B0719CEAF36F88",
+ "BillingNumber":999999,
+ "PIN":1234,
+ "DOB":"2020-09-30",
+ "LockedOut":"T"
+},
+  "GetInitialAccountInfoFromBillingNumber":{
+ "PIN":1234,
+ "DOB":"2020-09-30",
+ "LockedOut":"T"
+},
+  "UpdateNewPIN":{
+ "UpdateSuccess":"T"
+},
+  "PostPaymentNotification":{
+ "UpdateSuccess":"T"
+},
+"PostMoveOut":{
+ "UpdateSuccess":"T"
 }
 }
