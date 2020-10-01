@@ -1,0 +1,36 @@
+{
+  "posts": [
+    {
+      "id": 1,
+      "title": "hello"
+    }
+  ],
+  "profile": {
+    "name": "typicode"
+  },
+  "GetBillingInformation":{
+   "Balance": "500.00",
+   "DueDate": "2020-09-30",
+   "LastPaymentAmount": "125.00",
+   "LastPaymentDate": "2020-08-15",
+   "CollectionActivity": "R",
+   "ArrearsAge": ">60",
+   "Paperless": "T",
+   "ServiceAddresses":    [
+            {
+         "Premise": 123456,
+         "Address": "111 South St",
+         "Owner": "T",
+         "MoveOutScheduled": "T",
+         "ScheduledMoveOutDate": "2020-10-10"
+      },
+            {
+         "Premise": 67890,
+         "Address": "123 Main Ave",
+         "Owner": "F",
+         "MoveOutScheduled": "F",
+         "ScheduledMoveOutDate": ""
+      }
+   ]
+}
+}
