@@ -30,6 +30,20 @@
          "Owner": "F",
          "MoveOutScheduled": "F",
          "ScheduledMoveOutDate": ""
+      },
+     {
+         "Premise": 102939,
+         "Address": "456 Main Ave",
+         "Owner": "F",
+         "MoveOutScheduled": "F",
+         "ScheduledMoveOutDate": ""
+      },
+     {
+         "Premise": 666666,
+         "Address": "321 Main Ave",
+         "Owner": "F",
+         "MoveOutScheduled": "F",
+         "ScheduledMoveOutDate": ""
       }
    ]
 }
