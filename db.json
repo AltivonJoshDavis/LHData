@@ -49,14 +49,5 @@
  "PIN":1234,
  "DOB":"2020-09-30",
  "LockedOut":"T"
-},
-  "UpdateNewPIN":{
- "UpdateSuccess":"T"
-},
-  "PostPaymentNotification":{
- "UpdateSuccess":"T"
-},
-"PostMoveOut":{
- "UpdateSuccess":"T"
 }
 }
