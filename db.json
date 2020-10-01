@@ -37,17 +37,5 @@
          "ScheduledMoveOutDate": ""
       }
    ]
-},
-  "GetBillingNumberfromANI":{
- "CallID": "005056A747E81EDB80B0719CEAF36F88",
- "BillingNumber":999999,
- "PIN":1234,
- "DOB":"2020-09-30",
- "LockedOut":"T"
-},
-  "GetInitialAccountInfoFromBillingNumber":{
- "PIN":1234,
- "DOB":"2020-09-30",
- "LockedOut":"T"
 }
 }
